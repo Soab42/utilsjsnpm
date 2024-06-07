@@ -1,8 +1,8 @@
 {
-  "name": "tapas-countries",
-  "version": "1.0.1",
+  "name": "utils.js",
+  "version": "1.0.0",
   "type": "module",
-  "description": "This is an NPM to fetch you the country details",
+  "description": "This is an NPM to use components, utils and hooks",
   "main": "dist/index.js",
   "scripts": {
     "build:dev": "rollup -c --environment NODE_ENV:development",
@@ -10,18 +10,19 @@
   },
   "keywords": [
     "react",
-    "countries",
+    "components",
     "hooks",
+    "utils",
     "npm"
   ],
-  "author": "Tapas Adhikary",
+  "author": "Soab Mahmud Syfuddhin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atapas/tapas-countries"
+    "url": "https://github.com/soab42/utilsjs"
   },
   "bugs": {
-    "url": "https://github.com/atapas/tapas-countries/issues"
+    "url": "https://github.com/soab42/utilsjs/issues"
   },
   "dependencies": {
     "react": "^18.2.0",

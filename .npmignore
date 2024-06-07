@@ -2,3 +2,4 @@ src
 rollup.config.js
 .vscode
 tapas-countries*.tgz
+utils.js*.tgz
